@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1463067094 source:c:\users\ahmed nafis fuad\desktop\project\digital clock\imain.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<time.h>
+
+1463067004 c:\users\ahmed nafis fuad\desktop\project\digital clock\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1463067094 source:d:\projects\digital clock\imain.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<time.h>
+
+1463067004 d:\projects\digital clock\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
